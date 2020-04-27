@@ -1,0 +1,8 @@
+//rename this file to config.jscla
+var ssId = '<spreadSheetId>';
+var messageRegexpMask = /^(\+?)((\d+?)([.,]\d+)?)( )(.*)$/;
+var validatedChatIds = [123456789, 987654321];
+var sheetNameLogs = 'logs';
+var token = '<telegramToken>';
+var telegramUrl = 'https://api.telegram.org/bot' + token;
+var webAppUrl = '<yourGoogleAppUrl>';
