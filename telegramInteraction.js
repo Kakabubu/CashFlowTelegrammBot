@@ -1,4 +1,3 @@
-var config = JSON.parse(config.JSON)
 function setWebhook() {
   var url = telegramUrl + "/setWebhook?url=" + webAppUrl;
   var response = UrlFetchApp.fetch(url);
