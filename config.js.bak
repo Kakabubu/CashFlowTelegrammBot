@@ -1,4 +1,4 @@
-//rename this file to config.jscla
+//rename this file to config.js
 var ssId = '<spreadSheetId>';
 var messageRegexpMask = /^(\+?)((\d+?)([.,]\d+)?)( )(.*)$/;
 var validatedChatIds = [123456789, 987654321];
